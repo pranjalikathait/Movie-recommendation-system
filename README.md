@@ -25,3 +25,9 @@ installing surprise: https://github.com/NicolasHug/Surprise#installation
 Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf 
 
 SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c
+
+**Industry concerned -** 
+
+Unsupervised Machine Learning with collaborative filtering being a key component.
+
+**Business Objectives and Constraints-**
