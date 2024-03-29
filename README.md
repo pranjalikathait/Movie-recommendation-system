@@ -31,3 +31,13 @@ SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c
 Unsupervised Machine Learning with collaborative filtering being a key component.
 
 **Business Objectives and Constraints-**
+
+**Objectives:**
+
+Predict what rating a user will give to a movie he hasn't yet rated.
+Reduce the disparity between the expected and actual ratings (RMSE and MAPE).
+
+**Constraints:**
+
+Some level of interpretability.
+The recommended movies can be precomputed ahead of time, therefore low latency is not required.
